@@ -7,4 +7,4 @@
 <link rel="stylesheet" type="text/css" href="../login/js/alertifyjs/css/alertify.css">
 
 <script src="login/js/jquery-3.2.1.min.js"></script>
-<script src="/loginjs/alertifyjs/alertify.js"></script>
+<script src="login/js/alertifyjs/alertify.js"></script>
