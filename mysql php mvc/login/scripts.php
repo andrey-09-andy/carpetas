@@ -1,7 +1,3 @@
-
-
-
-
 <link rel="stylesheet" type="text/css" href="../login/bootstrap/css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="../login/js/alertifyjs/css/themes/default.css">
 <link rel="stylesheet" type="text/css" href="../login/js/alertifyjs/css/alertify.css">
